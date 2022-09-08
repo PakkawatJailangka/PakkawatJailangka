@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pakkawat_Jailangka Nickname Kai.
 - 👀 I’m interested in Development in Back-end.
 - 🌱 I’m currently learning C C++ HTML Javascript PHP SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on font-end 9wei.
 - 📫 How to reach me ...
 
 <!---
