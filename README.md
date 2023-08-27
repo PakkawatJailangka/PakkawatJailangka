@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pakkawat_Jailangka Nickname Kai.
+- 👋 Hi, I’m @Pakkawat_Jailangka Nickname Kai(Kazui).
 - 👀 I’m interested in Development in Back-end.
-- 🌱 I’m currently learning C C++ HTML Javascript PHP SQL
+- 🌱 I’m currently learning C C++ HTML Javascript PHP SQL VR
 - 💞️ I’m looking to collaborate on font-end with 9Wei.
 - 📫 How to reach me ...
 
